@@ -311,7 +311,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [FBC](https://www.linkedin.com/company/befbc/) | [Career Page](https:/www.linkedin.com/company/befbc/jobs) | Full | Direct
 [Forestae](https://www.linkedin.com/company/forestae/) | [Career Page](https:/www.linkedin.com/company/forestae/jobs) | Full | Contract
 [Good Morning Italia](https://www.linkedin.com/company/good-morning-italia/) | [Career Page](https:/www.linkedin.com/company/good-morning-italia/jobs) | Full | Contract
-[Gummy Industries](https://www.linkedin.com/company/gummy-industries/) | [Career Page](https:/www.linkedin.com/company/gummy-industries/jobs) | Full | Direct
+[Gummy Industries](https://gummyindustries.com/) | [Career Page](https://gummyindustries.com/contatti/) | Discretional | Direct
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
 [Human Analytica](https://humananalytica.it) | [Career Page](https://www.linkedin.com/company/human-analytica/jobs) | Hybrid | Direct
 [Hybrida Marketing](https://www.linkedin.com/company/hybrida-marketing/) | [Career Page](https:/www.linkedin.com/company/hybrida-marketing/jobs) | Full | Direct
